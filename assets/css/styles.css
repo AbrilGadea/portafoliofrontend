@@ -1,0 +1,14 @@
+*{
+width : 90%;
+margin:auto;
+padding: 0.25%;
+background-color: rgb(168, 43, 226);
+}
+
+.titulo{
+    color: rgb(43, 173, 173)
+}
+.fondo{
+    background: #555;
+    background-image: url(http://3.bp.blogspot.com/-dP_SNJJshTM/Ub0hv4wPnAI/AAAAAAAAPA4/8OoL_C_G7Kc/s400/_MG_7815.JPG);
+}
